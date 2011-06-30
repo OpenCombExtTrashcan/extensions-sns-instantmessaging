@@ -1,5 +1,5 @@
 <?php
-namespace oc\ext\microblog;
+namespace oc\ext\instantmessaging;
 
 //调用共通类
 use oc\ext\Extension;                           //
